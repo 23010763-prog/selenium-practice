@@ -39,6 +39,26 @@
 | **TC05** | Đăng xuất tài khoản | 1. Đăng nhập.<br>2. Mở Menu -> Click **Logout**. | `react-burger-menu-btn`<br>`logout_sidebar_link` | Quay lại trang chủ đăng nhập, xuất hiện lại nút **login-button**. | **PASSED** |
 
 ---
+Hình ảnh 5 test case:
+<img width="1481" height="777" alt="image" src="https://github.com/user-attachments/assets/cc016f5b-8909-40b3-a602-49352500c555" />
+
+test case 1 login
+
+<img width="677" height="531" alt="image" src="https://github.com/user-attachments/assets/c7571e36-1edb-4fe2-865e-018d131aa2c6" />
+
+test case 2 error
+
+<img width="1480" height="760" alt="image" src="https://github.com/user-attachments/assets/a0e6ef33-e52b-4c2d-ab09-a4f70d138594" />
+
+test case 3 cart
+
+<img width="1489" height="789" alt="{D0D78E94-38F2-44C4-9EF0-B5DF78CDD247}" src="https://github.com/user-attachments/assets/bf2e04cc-141e-499f-b7e5-8b5d85a5077d" />
+
+test case 4 sort
+
+<img width="695" height="546" alt="image" src="https://github.com/user-attachments/assets/ca54a6c0-d5d1-41c1-80a6-8ad099907b4f" />
+
+test case 5 logout
 
 ## 💻 4. HƯỚNG DẪN THỰC THI KIỂM THỬ
 
